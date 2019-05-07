@@ -1,0 +1,22 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "description": "simple calculator using node & express",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhr85/expressCalculator.git"
+  },
+  "author": "Mihir Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhr85/expressCalculator/issues"
+  },
+  "homepage": "https://github.com/Mhr85/expressCalculator#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
